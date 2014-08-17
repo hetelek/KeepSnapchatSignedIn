@@ -1,0 +1,9 @@
+Package: com.expetelek.keepsnapchatsignedin
+Name: KeepSnapchatSignedIn
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A tweak which automatically signs you into Snapchat if you are signed out. It is useful if you'd like to use multiple devices with Snapchat.
+Maintainer: Stevie Hetelekides
+Author: Stevie Hetelekides
+Section: Tweaks
